@@ -30,6 +30,7 @@
 * Duy Nhat Le
 * Jared Kaplan
 * Joseph Tan
+* Asim Thapa
 
 **Acknowledgements**
 * https://www.kaggle.com/rikdifos/eda-vintage-analysis
